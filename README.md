@@ -21,3 +21,8 @@ Contact person: Pedro Santos, https://www.ukp.tu-darmstadt.de/people/doctoral-re
 https://www.ukp.tu-darmstadt.de/
 
 https://www.tu-darmstadt.de/
+
+## Project structure
+
+* `intelligence_squared` -- Persuasiveness prediction experiments on the Intelligence Squared dataset (http://intelligencesquared.org/).
+* `moud_dataset` -- Opinion mining experiments on the Multimodal Opinion Mining Dataset (https://web.eecs.umich.edu/~mihalcea/downloads.html#MOUD)
