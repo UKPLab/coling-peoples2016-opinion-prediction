@@ -24,5 +24,5 @@ https://www.tu-darmstadt.de/
 
 ## Project structure
 
-* `intelligence_squared` -- Persuasiveness prediction experiments on the Intelligence Squared dataset (http://intelligencesquared.org/).
+* `intelligence_squared` -- Persuasiveness prediction experiments on the Intelligence Squared dataset (http://www.intelligencesquaredus.org/).
 * `moud_dataset` -- Opinion mining experiments on the Multimodal Opinion Mining Dataset (https://web.eecs.umich.edu/~mihalcea/downloads.html#MOUD)
