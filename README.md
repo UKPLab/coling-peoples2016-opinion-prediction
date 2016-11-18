@@ -14,3 +14,10 @@ Please use the following citation:
   location     = {Osaka,Japan}
 }
 ```
+> **Abstract:** We explore a domain-agnostic approach for analyzing speech with the goal of opinion prediction. We represent the speech signal by mel-frequency cepstral coefficients and apply long short-term memory neural networks to automatically learn temporal regularities in speech. In contrast to previous work, our approach does not require complex feature engineering and works without textual transcripts. As a consequence, it can easily be applied on various speech analysis tasks for different languages and the results show that it can nevertheless be competitive to the state- of-the-art in opinion prediction. In a detailed error analysis for opinion mining we find that our approach performs well in identifying speaker-specific characteristics, but should be combined with additional information if subtle differences in the linguistic content need to be identified.
+
+Contact person: Pedro Santos, https://www.ukp.tu-darmstadt.de/people/doctoral-researchers/pedro-santos/
+
+https://www.ukp.tu-darmstadt.de/
+
+https://www.tu-darmstadt.de/
